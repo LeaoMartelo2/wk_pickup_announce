@@ -1,5 +1,5 @@
-# CTJS template module for 1.21+
+# Wither and blood key pickup announceament
 
-## Replace this with some info about your module
+## Displays a title and sound when its respective key is picken up
 
-### add stuff here
+

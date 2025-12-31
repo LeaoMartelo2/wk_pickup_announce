@@ -1,7 +1,7 @@
 {
-    "name" : "template_module",
-    "description" : "a template 1.21 ctjs module",
+    "name" : "wk_pickup_announce",
+    "description" : "Announce when a wither/blood key gets picked up",
     "version" : "0.0.1",
-    "author": "your name goes here",
+    "author": "LeaoMartelo2",
     "entry": "index.js"
 }
